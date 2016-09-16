@@ -7,4 +7,8 @@ class SiteController < ApplicationController
 	def contacts
 		
 	end
+
+	def information
+		@project_name
+	end
 end
