@@ -5,3 +5,8 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+
+
+Project.create(name: "Word Central")
+Project.create(name: "Address Book")
+Project.create(name: "Auction Site")
